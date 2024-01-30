@@ -96,7 +96,7 @@
         "Price": 0.1,
         "Project": "string",
         "ReservedQuantity": "string",
-        "RowId": 0,
+        "RowId": 1,
         "StockPointCode": "string",
         "StockPointId": "string",
         "Total": 0.1,

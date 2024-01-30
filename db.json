@@ -1,5 +1,5 @@
 {
-  "Order": {
+  "orders": {
     "@url": "string",
     "@urlTaxReductionList": "string",
     "AdministrationFee": 0.1,

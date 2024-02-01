@@ -68,7 +68,7 @@
         "HouseWork": true,
         "HouseWorkHoursToReport": 0,
         "HouseWorkType": "CONSTRUCTION",
-        "OrderedQuantity": "22a",
+        "OrderedQuantity": "22",
         "Price": 0.1,
         "Project": "string",
         "ReservedQuantity": "string",

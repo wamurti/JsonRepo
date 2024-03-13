@@ -81,7 +81,7 @@
       },
        {
         "AccountNumber": 0,
-        "ArticleNumber": "LIC-ABC",
+        "ArticleNumber": "MC-LICABC",
         "ContributionPercent": "string",
         "ContributionValue": "string",
         "CostCenter": "string",
